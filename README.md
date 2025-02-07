@@ -10,7 +10,7 @@ This script launches a GOG Galaxy game via Steam while keeping your Steam status
 
 ### 1. Configure the Batch File  
 1. Download the `.bat` file and place it in a folder.  
-2. Edit the script:  
+2. Edit the file:
    - `/path=` → Set this to your game’s installation path.  
    - `/gameId=` → Find your game’s ID in its install folder (look for `goggame-GAME-ID.ico`).  
 
